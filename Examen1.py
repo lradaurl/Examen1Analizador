@@ -57,6 +57,6 @@ boton_analizar.place(x=60, y=240)
 resultado_texto = tk.Text(ventana, font=("Arial", 12), bg="white", fg="black", height=10, width=40)
 resultado_texto.place(x=60, y=300)
 
-entrada_texto.insert(tk.END, "public static void main ()\n{\n     int n = 23.23;\n}")
+entrada_texto.insert(tk.END, "programa suma(){\n     int  a,b,c;\n     int  a,b,c;\n     read a;\n     read b\n     c=a+b;\nprintf (\"la suma es\")\n  end;\n}")
 
 ventana.mainloop()
